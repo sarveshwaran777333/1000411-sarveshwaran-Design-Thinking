@@ -56,3 +56,9 @@ GitHub: For project documentation and hosting.
 Miro/MindMeister: For ideation and empathy mapping (if used).
 
 5. Interactive Demo link:
+
+
+6. credits:
+Name of the candidate: Sarveshwaran.K
+Name of the mentor: Syed Ali Beema.S
+Name of the school: Jain Vidyalaya IB World school
