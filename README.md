@@ -57,6 +57,7 @@ Miro/MindMeister: For ideation and empathy mapping (if used).
 
 5. Interactive Demo:
 Prototype: [https://www.figma.com/make/CZje9t4d6szr99IUZW50G0/Healthcare-Queue-Management-App?t=yimEaA3A5gdX7yV4-1]
+Screenshots and app flow: [https://drive.google.com/drive/folders/1--2zm0ykm_Yat34TWzDgcYViTgNKE9g_?usp=sharing]
 
 6. testing and feedback:
 
