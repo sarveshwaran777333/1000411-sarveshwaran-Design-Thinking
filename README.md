@@ -60,7 +60,7 @@ Prototype: [https://www.figma.com/make/CZje9t4d6szr99IUZW50G0/Healthcare-Queue-M
 Screenshots and app flow: [https://drive.google.com/drive/folders/1--2zm0ykm_Yat34TWzDgcYViTgNKE9g_?usp=sharing]
 
 6. testing and feedback:
-
+To achieve a distinguished level of user-centered design, the "Caring Queue" prototype was rigorously tested with a diverse group of 7 volunteers representing our primary personas, including seniors, busy professionals, and anxious parents. Initial feedback from elderly participants revealed concerns regarding visual clarity and haptic reliability, leading to the critical iteration of increasing font contrast and adding a "Haptic Pulse Test" button to verify vibration alerts. Parents noted the risk of children accidentally closing the app while using the Distraction Hub, which prompted the addition of a persistent queue status header and guided access prompts. Feedback from high-anxiety users and non-native speakers resulted in the replacement of complex medical jargon with universal emojis and the optimization of mood-based notification frequency to prevent sensory overload. Furthermore, professional users' desire for mobility was addressed by implementing a "Safe Zone Range" indicator, while frequent patients were provided with a "Quick Start" dashboard to bypass introductory tutorials. Finally, to address clinical staff concerns regarding patient uncertainty, a pulsing "Live Connection" indicator was added to the UI to provide real-time reassurance that the system is active, ultimately resulting in a more inclusive, accessible, and transparent waiting room experience.
 
 7. credits:
 Name of the candidate: Sarveshwaran.K
