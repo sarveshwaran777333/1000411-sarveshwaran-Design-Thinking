@@ -55,7 +55,4 @@ GitHub: For project documentation and hosting.
 
 Miro/MindMeister: For ideation and empathy mapping (if used).
 
-5. Interactive Demo & Screenshots
-storyboard:
-
-Link: [https://canva.link/0h7s4r899e402oi]
+5. Interactive Demo link:
