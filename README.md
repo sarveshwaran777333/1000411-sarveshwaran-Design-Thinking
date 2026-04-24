@@ -55,10 +55,13 @@ GitHub: For project documentation and hosting.
 
 Miro/MindMeister: For ideation and empathy mapping (if used).
 
-5. Interactive Demo link:
+5. Interactive Demo:
+Prototype: [https://www.figma.com/make/CZje9t4d6szr99IUZW50G0/Healthcare-Queue-Management-App?t=yimEaA3A5gdX7yV4-1]
+
+6. testing and feedback:
 
 
-6. credits:
+7. credits:
 Name of the candidate: Sarveshwaran.K
 Name of the mentor: Syed Ali Beema.S
 Name of the school: Jain Vidyalaya IB World school
